@@ -1,0 +1,6 @@
+1.  https://visualstudio.microsoft.com/ko/visual-cpp-build-tools/
+2.  "error: command 'C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX86\\x64\\cl.exe' failed with exit code 2
+      [end of output]"==> Microsoft Visual C++ 빌드 도구를 설치해야 합니다 .
+
+3. https://community.openai.com/t/error-installing-openai-aiohttps-error-on-python-3-12/456052/8
+
